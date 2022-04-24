@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="">
+        <file>QtChessGUI/Widgets/qmldir</file>
+        <file>QtChessGUI/Widgets/ChessView.qml</file>
+        <file>QtChessGUI/Widgets/DropTile.qml</file>
+        <file>QtChessGUI/Widgets/DragIcon.qml</file>
+        <file>QtChessGUI/main.qml</file>
+    </qresource>
+</RCC>
