@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="QtChessGUI/images">
-        <file>grid.png</file>
-        <file>set_1.png</file>
-    </qresource>
-</RCC>

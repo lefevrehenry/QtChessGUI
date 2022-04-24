@@ -27,8 +27,8 @@ ColumnLayout {
         Layout.preferredHeight: 64
 
         DragIcon {
-            width: 32
-            height: 32
+            width: 80
+            height: 80
         }
     }
 

@@ -1,20 +1,26 @@
 import QtQuick 2.14
 
-Rectangle {
+Image {
     id: root
 
-    // width: 32
-    // height: 32
+    // property bool color: 0
+    // property int id: 1
+
+    property var target: null
+
+    readonly property real cw: 213.5
+    readonly property real ch: 213.5
+
+    source: "qrc:/QtChessGUI/icons/sets/1/w0.png"
+
+    sourceSize.width: cw
+    sourceSize.height: ch
 
     Component.onCompleted: console.log("ctorrr")
     Component.onDestruction: console.log("dtorrr")
 
-    property var target: null
-
     anchors.horizontalCenter: parent.horizontalCenter
     anchors.verticalCenter: parent.verticalCenter
-
-    color: "green"
 
     Drag.active: dragArea.drag.active
     Drag.hotSpot.x: width / 2

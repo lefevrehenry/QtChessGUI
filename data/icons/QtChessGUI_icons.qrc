@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="QtChessGUI/icons">
+        <file>grid.png</file>
+        <file>sets/1/set.png</file>
+        <file>sets/1/b0.png</file>
+        <file>sets/1/b1.png</file>
+        <file>sets/1/b2.png</file>
+        <file>sets/1/b3.png</file>
+        <file>sets/1/b4.png</file>
+        <file>sets/1/b5.png</file>
+        <file>sets/1/w0.png</file>
+        <file>sets/1/w1.png</file>
+        <file>sets/1/w2.png</file>
+        <file>sets/1/w3.png</file>
+        <file>sets/1/w4.png</file>
+        <file>sets/1/w5.png</file>
+    </qresource>
+</RCC>

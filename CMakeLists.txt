@@ -25,7 +25,7 @@ set(MOCCABLE_FILES
 )
 
 set(QRC_FILES
-    data/images/QtChessGUI_images.qrc
+    data/icons/QtChessGUI_icons.qrc
     data/qml/QtChessGUI_qml.qrc
 )
 
